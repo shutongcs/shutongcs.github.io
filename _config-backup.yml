@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://shutongcs.github.io'
 baseurl: ''
-title: 'Shutong Chen'
-description: 'This is the homepage of Shutong Chen'
+title: 'My website'
+description: 'This is my new website'
 permalink: pretty
-logo: /logo.png
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -34,10 +34,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: About
+- title: Home
   url: /
-- title: Publications
-  url: /publications/
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:

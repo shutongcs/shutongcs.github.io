@@ -16,20 +16,6 @@
   
   
   {
-    "title": "About this website",
-    "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
-    "url": "/about/"
-  },
-  
-  {
-    "title": "Categories",
-    "excerpt": "Category index\n",
-    "content": "\n",
-    "url": "/categories/"
-  },
-  
-  {
     "title": "Blog",
     "excerpt": "\n",
     "content": "\n",
@@ -37,10 +23,17 @@
   },
   
   {
-    "title": "Welcome to my website",
+    "title": "About",
     "excerpt": "\n",
-    "content": "There isn’t much going on here yet, but watch this space\n",
+    "content": "Hi! I am a Ph.D. student advised by Prof. Fangming Liu at the School of Computer of Science and Technology, Huazhong University of Science and Technology, China. My research interests include edge computing and green computing. I received my B.Sc. degree from the School of Mathematics, Hunan University, China. During 2019 - 2020, I was a visiting Ph.D. student at the HPDC group, the Department of Computer Science, Vrije Universiteit Amsterdam, The Netherlands.\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "\n",
+    "content": "Conference Publications\n\n  Shutong Chen, Lin Wang, Fangming Liu*, “Optimal Admission Control Mechanism Design for Time-Sensitive Services in Edge Computing”, in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 2-5 May 2022, Virtual Event. (CCF-A, acceptance ratio: 19.9%)\n  Lin Pan, Lin Wang, Shutong Chen, Fangming Liu*, “ Retention-aware Container Caching for Serverless Edge Computing”, in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 2-5 May 2022, Virtual Event. (CCF-A, acceptance ratio: 19.9%)\n  Qiangyu Pei, Shutong Chen, Qixia Zhang, Xinhui Zhu, Fangming Liu*, Ziyang Jia, Yishuo Wang, Yongjie Yuan, “CoolEdge: Hotspot-relievable Warm Water Cooling for Energy-efficient Edge Datacenters”, in Proc. of ACM ASPLOS, 28 Feb – 4 March 2022, Lausanne, Switzerland. (CCF-A, acceptance ratio: 20.2%)\n  Shutong Chen, Lei Jiao, Lin Wang, Fangming Liu*, “An Online Market Mechanism for Edge Emergency Demand Response via Cloudlet Control”, in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 29 April - 2 May 2019, Paris, France. (CCF-A, acceptance ratio: 19.7%)\n  Chaobing Zeng, Fangming Liu*, Shutong Chen, Weixiang Jiang, Miao Li, “Demystifying the Performance Interference of Co-located Virtual Network Functions”, in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 15-19 April 2018, Honolulu, HI, USA. (CCF-A, acceptance ratio: 19.2%)\n\n\nJournal Publications\n\n  Shutong Chen, Lei Jiao, Fangming Liu*, Lin Wang, “EdgeDR: An Online Mechanism Design for Demand Response in Edge Clouds”, in IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 33, No. 2, 1 Feb. 2022. (CCF-A, Impact factor: 3.757)\n  Zhi Zhou, Fangming Liu*, Shutong Chen, Zongpeng Li, “A Truthful and Efficient Incentive Mechanism for Demand Response in Green Datacenters”, in IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 31, No. 1, 1 Jan. 2020. (CCF-A, Impact factor: 3.757)\n  Shutong Chen, Zhi Zhou, Fangming Liu*, Zongpeng Li, Shaolei Ren, “CloudHeat: An Efficient Online Market Mechanism for Datacenter Heat Harvesting”, in ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Vol. 3, No. 3, Aug. 2018.\n\n",
+    "url": "/publications/"
   }
   
 ]

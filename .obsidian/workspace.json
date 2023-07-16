@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "329db58dc7d1b3c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75025cd9f4ec4cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17afcca41a488821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/archive-layout-with-content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52292ae29b92f4ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "524c11a98efd74a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2f1c978e269f8a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "960de29f22a40d7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a71d84c1b24733e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dbfd10512002ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "523dcc2eb3e89d9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531a5c12c52f0304",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/archive-layout-with-content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "277587257eb00388",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/archive-layout-with-content.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7360d78c86e054a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68ddae313f5b0a96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/archive-layout-with-content.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "17afcca41a488821",
+  "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/404.md",
+    "_drafts/post-draft.md",
+    "markdown_generator/readme.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "_portfolio/portfolio-1.md",
+    "_pages/terms.md",
+    "_pages/sitemap.md",
+    "_pages/publications.md",
+    "_pages/non-menu-page.md",
+    "_pages/markdown.md",
+    "_pages/cv.md",
+    "_pages/award.md",
+    "_pages/archive-layout-with-content.md"
+  ]
+}

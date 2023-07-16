@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/archive-layout-with-content.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/archive-layout-with-content.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/archive-layout-with-content.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/archive-layout-with-content.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "17afcca41a488821",
   "lastOpenFiles": [
-    "_pages/about.md",
     "_pages/404.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
     "_drafts/post-draft.md",
     "markdown_generator/readme.md",
     "README.md",
@@ -162,7 +163,6 @@
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
     "_pages/cv.md",
-    "_pages/award.md",
-    "_pages/archive-layout-with-content.md"
+    "_pages/award.md"
   ]
 }

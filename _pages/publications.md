@@ -34,4 +34,4 @@ author_profile: true
 	IEEE Transactions on Parallel and Distributed Systems (TPDS), Jan. 2020 (CCF-A, impact factor: 3.757)
 - CloudHeat: An Efficient Online Market Mechanism for Datacenter Heat Harvesting\
 	**Shutong Chen**, Zhi Zhou, Fangming Liu, Zongpeng Li, Shaolei Ren\
-	ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Aug. 2018
+	ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Sep. 2018

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "CHANGELOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "CHANGELOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "CHANGELOG.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "17afcca41a488821",
   "lastOpenFiles": [
-    "_pages/404.md",
-    "_pages/archive-layout-with-content.md",
-    "_pages/about.md",
-    "_drafts/post-draft.md",
-    "markdown_generator/readme.md",
-    "README.md",
     "CONTRIBUTING.md",
-    "CHANGELOG.md",
-    "_portfolio/portfolio-1.md",
+    "_pages/404.md",
     "_pages/terms.md",
     "_pages/sitemap.md",
-    "_pages/publications.md",
     "_pages/non-menu-page.md",
+    "_pages/publications.md",
     "_pages/markdown.md",
     "_pages/cv.md",
-    "_pages/award.md"
+    "_pages/award.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
+    "_site/files/paper1.pdf",
+    "_portfolio/portfolio-1.md",
+    "CHANGELOG.md",
+    "markdown_generator/readme.md",
+    "_drafts/post-draft.md",
+    "README.md"
   ]
 }

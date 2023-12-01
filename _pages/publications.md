@@ -7,6 +7,9 @@ author_profile: true
 
 
 ### Conference Publications
+- X-Stream: A Flexible, Adaptive Video Transformer for Privacy-Preserving Video Stream Analytics \
+  	Dou Feng, Lin Wang, **Shutong Chen**, Lingjing Dong, Fangming Liu \
+  	IEEE INFOCOM 2024 (CCF-A, acceptance ratio: 19.6%)
 - Optimal Admission Control Mechanism Design for Time-Sensitive Services in Edge Computing \
 	**Shutong Chen**, Lin Wang, Fangming Liu \
 	IEEE INFOCOM 2022 (CCF-A, acceptance ratio: 19.9%)

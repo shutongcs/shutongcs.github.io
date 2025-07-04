@@ -29,6 +29,9 @@ author_profile: true
 
 
 ### Journal Publications
+- DeVA: An Edge-assisted Video Analytics Framework for Depth Estimation\
+  	**Shutong Chen**, Jingwen Yin, Ruichao Zhong, Fangming Liu\
+  	IEEE Transactions on Mobile Computing (TMC), accepted (CCF-A)
 - EdgeDR: An Online Mechanism Design for Demand Response in Edge Clouds\
 	**Shutong Chen**, Lei Jiao, Fangming Liu, Lin Wang\
 	IEEE Transactions on Parallel and Distributed Systems (TPDS), Feb. 2022 (CCF-A, impact factor: 3.757)
